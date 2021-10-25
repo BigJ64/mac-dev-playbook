@@ -44,7 +44,7 @@ dotfiles_files:
   - .vimrc
 
 homebrew_installed_packages:
-  - ansible
+  # - ansible
   - git
   - ffmpeg
   - youtube-dl
@@ -60,6 +60,7 @@ homebrew_taps:
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - 1password
+  - 1password-cli
   - alfred
   - applepi-baker
   - authy
