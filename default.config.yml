@@ -44,7 +44,6 @@ dotfiles_files:
   - .vimrc
 
 homebrew_installed_packages:
-  # - ansible
   - git
   - ffmpeg
   - youtube-dl
@@ -52,6 +51,10 @@ homebrew_installed_packages:
   - bash
   - internetarchive
   - python3
+  - jq
+  - minikubes
+  - wakeonlan
+  - iperfs
 
 homebrew_taps:
   - homebrew/core
